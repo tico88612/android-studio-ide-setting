@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="-1858e610:16e82c2e8ea:-8000" />
+    <option name="version" value="3.10.0" />
+  </component>
+</application>
